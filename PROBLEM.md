@@ -2,7 +2,8 @@
 
 ## Context
 
-You're designing a lightweight event bus system that allows parts of a system to subscribe to events and get notified when those events occur. Think of it as the minimal core of a pub/sub system or signal-slot mechanism.
+You're designing a lightweight event bus system that allows parts of a system to subscribe to events and get notified when those events occur. 
+Think of it as the minimal core of a pub/sub system or signal-slot mechanism.
 
 ## Problem
 
